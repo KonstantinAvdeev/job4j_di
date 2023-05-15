@@ -20,7 +20,7 @@ public class StartUI {
         }
     }
 
-    public String askStr(String question){
+    public String askStr(String question) {
         return consoleInput.askStr(question);
     }
 }
